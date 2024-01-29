@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<alternativeEmulator>
+	<label>DuckStation (Standalone)</label>
+</alternativeEmulator>
+<gameList>
+	<game>
+		<path>./Crash Bandicoot (USA).chd</path>
+		<name>Crash Bandicoot</name>
+		<desc>Crash Bandicoot, a heroic, agile and mutated marsupial who must save his girlfriend Tawna. The main antagonist is Doctor Neo Cortex, a mad scientist who was often ridiculed by the scientific community for his outlandish (but nearly workable) theories and is now motivated to prove his tormentors wrong by creating a mutated army of beasts to conquer the world. Cortex's henchman is Doctor Nitrus Brio, the insecure creator of the Evolvo-Ray. Crash's love interest is Tawna, a female bandicoot about to undergo experimentation by the Doctors. Helping Crash in his journey is an ancient witch doctor spirit named Aku Aku, who has scattered masks of himself throughout the islands to grant Crash special powers. The boss characters of the game include Papu Papu, the obese and short-tempered chief of the native village; Ripper Roo, a demented kangaroo with razor-sharp toenails; Koala Kong, a muscular but unintelligent koala; and Pinstripe Potoroo, the tommy gun-wielding bodyguard of Doctor Cortex.</desc>
+		<rating>0.8</rating>
+		<releasedate>19961102T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20240109T011328</lastplayed>
+	</game>
+</gameList>

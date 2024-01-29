@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./LittleBigPlanet™.lnk</path>
+		<name>Littlebigplanet</name>
+		<desc>LittleBigPlanet is a puzzle platformer where the player controls sackboys. It takes the characters on an adventure through levels with different themes and settings, trying to reach the end of each level alive. The platforming is based entirely on physics where the sackboys can push or pull items, or generally manipulate them with their movement or weight. In addition to running, jumping, pushing and pulling, it is also necessary to master grabbing dangling objects and swinging from them to get over some obstacles and traps.</desc>
+		<rating>0.9</rating>
+		<developer>Media Molecule</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+	</game>
+</gameList>

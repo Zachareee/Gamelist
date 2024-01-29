@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<alternativeEmulator>
+	<label>Dolphin (Standalone)</label>
+</alternativeEmulator>
+<gameList>
+	<game>
+		<path>./Wii Sports Resort (USA) (En,Fr,Es) (Rev 1).wbfs</path>
+		<name>Wii Sports Resort</name>
+		<desc>Wii Sports Resort for Wii is a new version of the game traditionally sold with the console. A series of new challenges await you, some of them using the WiiMotion Plus, offering more precision for the controller's movements. The setting this time is a paradise island, where you can try your hand at jet-skiing, fencing or even throwing a freesbee so that your virtual dog catches it and brings it back to you.</desc>
+		<rating>0.7</rating>
+		<releasedate>20090726T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casual Game</genre>
+		<players>1-4</players>
+	</game>
+</gameList>

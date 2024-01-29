@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<alternativeEmulator>
+	<label>Mesen</label>
+</alternativeEmulator>
+<gameList>
+	<game>
+		<path>./Donkey Kong (World) (Rev A).zip</path>
+		<name>Donkey Kong</name>
+		<desc>Can you save Mario's girlfriend from Donkey Kong's clutches? You must help Mario free Pauline before it's too late. You'll have to dodge booby-trapped barrels, fireballs and anything else Donkey Kong throws at you to try and stop you. So if you're looking for action, stop the antics!</desc>
+		<rating>0.6</rating>
+		<releasedate>19861015T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20231227T140257</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr. (USA) (GameCube Edition).zip</path>
+		<name>Donkey Kong Jr.</name>
+		<desc>Mario as a villain, who would have thought it? But this is the unlikely scenario of Donkey Kong Jr. on NES. Yes, the mustachioed villain has locked Donkey Kong in a cage and it's up to his offspring to get him out of the clutches of this devious plumber. Our friendly primate will have to climb along lianas to reach the top of the board, while avoiding the various objects that Mario sees fit to throw at his face.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870615T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20240111T115710</lastplayed>
+	</game>
+	<game>
+		<path>./Mario Bros. (World).zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more! Play against the computer, or with a friend - either way, this is one underground classic you'll want to play time and time again!</desc>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<playcount>4</playcount>
+		<lastplayed>20240111T124432</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong 3 (World).zip</path>
+		<name>Donkey Kong 3</name>
+		<desc>Donkey Kong has lodged in a greenhouse and it's bugging the bees out of Stanley! Based on the third game in the enormously popular arcade series, Donkey Kong 3 introduces an exterminator named Stanley as he desperately tries to protect the flowers in his greenhouse from Donkey Kong. Armed only with a can of bug spray, Stanley must force Donkey Kong higher and higher into the greenhouse rafters until Donkey Kong is off the screen and the next stage is reached. But not surprisingly, Donkey Kong isn't going to move without a fight, so he sends wave after wave of bugs, bees, and other creatures toward Stanley. Not only must Stanley repel the insects in order to save the flowers, but he'll have to keep an eye out for projectiles thrown by Donkey Kong himself. If Stanley is good enough, he'll be able to grab a can of more powerful bug spray and really get Donkey Kong moving. It all adds up to frantic fun that anyone can enjoy!</desc>
+		<rating>0.7</rating>
+		<releasedate>19870915T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20240111T125710</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario Bros 2 (J) [p1].zip</path>
+		<name>Super Mario Brothers: The Lost Levels</name>
+		<desc>Originally released in Japan as Super Mario Bros.® 2, this game has previously made only brief cameo appearances in the Western hemisphere. Mario fans will appreciate the familiar look and feel of the game, while finding that its updated game play creates an entirely new challenge. No longer content just to wear different-colored overalls, Mario and Luigi also possess different skill sets (Mario can stop quicker, while Luigi can jump higher). In addition to the classic enemies already known to fans worldwide, there are also Poison Mushrooms, backward Warp Zones, and the occasional wind gust (which can help or hinder your progress) to take into account. And if that?s somehow not enough, expert players can go looking for the game?s secret worlds. So get ready to put your Mario skills to the ultimate test, and save the Princess again. Just don?t be surprised if she?s in another castle!</desc>
+		<rating>0.6</rating>
+		<releasedate>19860603T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20240119T205056</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario Bros. 2 (Europe).zip</path>
+		<name>Super Mario Bros. 2</name>
+		<desc>One night Mario has a strange dream, where he opens a door to another world filled with even stranger creatures and lands then those in his last adventure against Bowser. Amazingly, the next day, Mario, Luigi, Toad, and the Princess stumble upon a cave, which leads to the world that was in Mario's dream.
+
+Subcon, the land of dreams, is under an evil spell thanks to Wart, so Mario and the gang must save the day. New creatures to defeat and plenty of nasty surprises await.
+
+Choose from the four characters, each differing in speed and jumping ability, and head on through 7 levels each filled with puzzles, bosses, bonus money, the always helpful mushroom, and invincible star, plus bombs and magic potions. 
+After each level, depending on the coins you collect, you can use them in the bonus game to collect extra lives.</desc>
+		<rating>0.9</rating>
+		<releasedate>19890428T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20240119T210836</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario Bros. 3 (Japan) (Rev A).zip</path>
+		<name>Super Mario Bros. 3</name>
+		<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
+
+This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
+It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
+
+Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
+		<rating>1</rating>
+		<releasedate>19910829T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Wrecking Crew (World).zip</path>
+		<name>Wrecking Crew</name>
+		<desc>Wrecking Crew is a platform action game for one or two players. You control Mario and Luigi who need to demolish various buildings. After each wall in the building has been destroyed, you move on to the next (and more difficult) building. Many of the buildings have a puzzle element to them; you may need to find the path to reach all of the walls without becoming trapped at a dead end. Wandering throughout the buildings are dangerous creatures and the construction foreman, all of whom will stop Mario and Luigi from completing their task. The game features 100 levels, or use the construction set and create and play your own buildings.</desc>
+		<rating>0.6</rating>
+		<releasedate>19871015T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20240123T173938</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario Bros. (World).zip</path>
+		<name>Super Mario Bros.</name>
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
+
+The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
+
+Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
+		<rating>0.9</rating>
+		<releasedate>19870515T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<playcount>5</playcount>
+		<lastplayed>20240127T142237</lastplayed>
+	</game>
+</gameList>

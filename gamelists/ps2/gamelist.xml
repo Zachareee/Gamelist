@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<alternativeEmulator>
+	<label>PCSX2 (Standalone)</label>
+</alternativeEmulator>
+<gameList>
+	<game>
+		<path>./LEGO Star Wars - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Da).chd</path>
+		<name>LEGO Star Wars : The Video Game</name>
+		<desc>This curious blend of big-name brands tells the earlier parts of the Star Wars story in a version of films' universe that's been built from scratch with Lego parts and people. The game highlights the action of Episodes I through III (the more recent, prequel films); players take control of thoroughly Lego versions of heroes such as Qui-Gon Jinn, Obi-Wan Kenobi, Princess Amidala, Anakin Skywalker, and others, to battle through action-oriented levels based on the films' settings, but constructed entirely with Lego blocks.
+
+ Different characters have different special skills, and this leads to some exploration and puzzle-solving gameplay along with the 3D platform-style action and combat. As they progress, heroes earn credits which can be spent to unlock new characters. The main game features unlimited lives, encouraging players to explore the secrets hidden in each area. LEGO Star Wars was developed by Traveller's Tales, a studio previously known for its handling of licensed properties in games such as A Bug's Life, Finding Nemo, The Weakest Link, and Crash Bandicoot: The Wrath of Cortex.
+</desc>
+		<rating>0.8</rating>
+		<releasedate>20050422T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20231228T210039</lastplayed>
+	</game>
+	<game>
+		<path>./LEGO Star Wars II - The Original Trilogy (Europe, Australia) (En,Fr,De,Es,It,Da).chd</path>
+		<name>LEGO Star Wars II : The Original Trilogy</name>
+		<desc>The surprise hit of 2005 returns for more brick-blasting battles and sci-fi spoofing in LEGO Star Wars II: The Original Trilogy. As the title suggests, the storyline focuses on the first three films in the Star Wars saga. Players will choose from a variety of LEGOized characters as they attempt to end the Galactic Empire's tyrannical reign. The lighthearted action is still designed for players of all ages and abilities, but there is now more to see and do. New character-specific special moves are available, from Leia's head-knocking slaps to Obi-Wan's helmet-spinning use of the Force to confuse his attackers.
+
+ As players progress through familiar movie scenes in the story mode, they can unlock more than 50 characters and even mix-and-match individual parts and accessories to create custom hybrids for use in the "free play" mode. Also new is the ability to build vehicles such as landspeeders, AT-STs, and speeder bikes, or to ride creatures like tauntauns and banthas. The original's cooperative play option returns with a revamped camera and more team-oriented challenges to overcome. As a special bonus, owners of the first game can unlock 54 additional characters for free play, expanding the roster to include Darth Maul and other fan favorites.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060908T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20240114T232947</lastplayed>
+	</game>
+	<game>
+		<path>./Ben 10 - Protector of Earth (USA).chd</path>
+		<name>Ben 10 : Protector of Earth</name>
+		<desc>Ben 10: Protector Of The Earth is an action game based on the cartoon series Ben 10. The story follows the adventures of Ben Tennyson, who one day finds a watch-like device called the Ominitrix, which give him the ability to transform into different aliens each with its own special ability.
+
+The aliens in which Ben can transform are: Fourarms, a big brute who excels at close combat, Fireblast, who can torch his enemies with fireballs, XLR8, a superfast speedster, Cannonball, who can turn into a metal ball and lastly Wildvine, who can stretch his limbs to reach new places.
+
+The player has three kinds of attacks: light, heavy and the special moves as well as a large number of combos. The game features more than 14 levels, visiting locations as the Grand Canyon, San Francisco, Seattle, or Mt. Rushmore.</desc>
+		<rating>0.8</rating>
+		<releasedate>20071116T000000</releasedate>
+		<developer>High Voltage</developer>
+		<publisher>D3 Publisher</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Ratchet  Clank (USA) (EnFrDeEsIt).chd</path>
+		<name>Ratchet &amp; Clank</name>
+		<desc>Ratchet &amp; Clank  involves the two protagonists Ratchet, a furry alien creature, and Clank, a nerdy little robot, going on a quest to find Captain Qwark and ultimately to help save the galaxy.
+Firstly each of the game's levels are huge sweeping vistas with extremely detailed buildings which are visible at all times. This means that a building on the horizon is not just a backdrop; in all likelihood Ratchet will be exploring it in a few moments time. Secondly, the game includes a number of sub-games, such as a space fight sequence and a number of turret shoot-outs which are akin to Missile Command in the first person.
+The game has over twenty levels and includes as many real-time cut-scenes which tell the story. The story is non-linear, requiring the player to return to previous levels to complete objectives and to choose between multiple paths forward. There is also a respectable array of weapons, gadgets, and accessories to find or buy as the game progresses.</desc>
+		<rating>0.9</rating>
+		<releasedate>20021108T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20240129T001119</lastplayed>
+	</game>
+</gameList>

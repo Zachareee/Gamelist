@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Call Of Duty 3.iso</path>
+		<name>Call Of Duty 3</name>
+		<desc>Call of Duty 3: March to Paris is a first-person shooter for Xbox. Still in the heart of the Second World War, in 1944 to be precise, when the German invasion starts to get worse, it is up to you to launch the assault to push back the enemy. In addition to the single-player campaign, it is also possible to try out multiplayer.</desc>
+		<rating>0.8</rating>
+		<releasedate>20061110T000000</releasedate>
+		<developer>Treyarch Corporation</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-16</players>
+		<playcount>1</playcount>
+		<lastplayed>20240111T221221</lastplayed>
+	</game>
+</gameList>

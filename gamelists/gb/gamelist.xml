@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<alternativeEmulator>
+	<label>Gambatte</label>
+</alternativeEmulator>
+<gameList>
+	<game>
+		<path>./Pokemon Green (U) [p1][!].zip</path>
+		<name>Pocket Monsters - Midori</name>
+		<desc>The mascot of Green version is Venusaur while Charizard is the mascot of Red. The games were remade for Western audiences as Pokémon Red and Blue. Another remake was made titled Pokémon Blue for Japanese audiences only. These are the first Pokémon games that ever came out and set the basis for all that came after including the Anime.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960227T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Pokemon - Blue Version (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Pokémon : Blue Version</name>
+		<desc>After venturing alone into tall grass, a voice warns the player to stop, which is revealed to be Professor Oak, a famous Pokémon researcher. Professor Oak explains to the player that wild Pokémon may be living there, and encountering them alone can be very dangerous. He takes the player to his laboratory where the player meets Oak's grandson, a rival aspiring Pokémon Trainer. The player and the rival are both instructed to select a starter Pokémon for their travels out of Bulbasaur, Squirtle, and Charmander. Oak's Grandson will always choose the Pokémon which is stronger against the player's starting Pokémon. He will then challenge the player to a Pokémon battle with their newly obtained Pokémon, and will continue to battle the player at certain points throughout the games.</desc>
+		<rating>0.9</rating>
+		<releasedate>19991005T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).zip</path>
+		<name>Pokémon : Yellow Version, Special Pikachu Edition</name>
+		<desc>You've finally been granted your Pokemon trainer's license, and now you're on your way to becoming the world's greatest Pokemon trainer! The shockingly cute Pikachu tags along behind you as you search the enormous world for monsters to train and evolve. Face off against Blastoise's torrential water gun. Stand strong when facing Pidgeot's stormy gust. Develop the ultimate Pokemon strategy to defeat the eight GYM leaders and become the greatest Pokemon master of all time!</desc>
+		<rating>0.9</rating>
+		<releasedate>20000616T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Kirby's Dream Land (USA, Europe).zip</path>
+		<name>Kirby's Dream Land</name>
+		<desc>Dedede, King of Dream Land, is a penguin-like creature who is too gluttonous for his own good. Gathering food for his midnight feast, he got carried away and ended up taking all the food from the inhabitants of his country. One of them, a pink little guy named Kirby, decides to travel all the way to King Dedede's palace and retrieve the lost food by any means.
+
+Kirby's Dream Land is a side-scrolling platform action game, and the first in the Kirby series. Although the protagonist appears to be a weak little marshmallow, he is actually quite powerful: he has the ability to suck up his enemies like a vacuum, and then shoot them out at other enemies.  Kirby can also swallow air and inflate himself, which allows him to fly. There are four levels in the game; no save feature is available.</desc>
+		<rating>0.8</rating>
+		<releasedate>19920427T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20240119T222353</lastplayed>
+	</game>
+	<game>
+		<path>./Pokemon Red (UE) [S][!].zip</path>
+		<name>Pokémon : Red Version</name>
+		<desc>You've finally been granted your Pokémon trainer's license. Now, it's time to head out to become the world's greatest Pokémon trainer. It's going to take all you've got to collect 150 Pokémon in this enormous world. Catch and train monsters like the shockingly-cute Pikachu. Face off against Blastoise's torrential water cannons. Stand strong when facing Pidgeot's stormy Gust. Trade with friends and watch your Pokémon evolve. Important - no single Pokémon can win it all. Can you develop the ultimate Pokémon strategy to defeat the eight GYM Leaders and become the greatest Pokémon Master of all time?
+
+* Collect up to 139 different Pokémon playing the Red version. Using the Game Link cable, trade with a friend who has the Blue version to capture all 150.
+* You'll need to use both versions (Red and Blue) to collect all of the Pokémon.
+* Test your training skills by battling against a friend using the Game Link cable.
+* Save your Pokémon and game progress on the Game Pak memory.
+
+</desc>
+		<rating>0.9</rating>
+		<releasedate>19991005T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+		<playcount>9</playcount>
+		<lastplayed>20240125T095211</lastplayed>
+	</game>
+</gameList>
