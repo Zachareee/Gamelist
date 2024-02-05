@@ -83,19 +83,6 @@ There is an entirely new dungeon dubbed "The Labyrinth of Time" which enforces a
 		<lastplayed>20240125T111230</lastplayed>
 	</game>
 	<game>
-		<path>./Patapon (USA).iso</path>
-		<name>Patapon</name>
-		<desc>Set among a variety of colorful 2D backgrounds, Patapon unfolds through more than 30 missions with more than 20 different environments, where players are tasked with outfitting the Patapon army, collecting resources, and using strategy to grow the tribe into a devastating fighting force. Incorporating various button-timed drumbeats in real-time to control the Patapons, players will strategically traverse through each environment, battling enemies each step of the way. The game presents a variety of warrior types such as archers, infantry, cavalry, and more that players can unlock, along with a wide selection of more than 100 weapon and shield upgrades, allowing players to customize their forces throughout the funky adventure.</desc>
-		<rating>0.9</rating>
-		<releasedate>20080226T000000</releasedate>
-		<developer>SCE Japan Studio</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Music and Dance</genre>
-		<players>1</players>
-		<playcount>11</playcount>
-		<lastplayed>20240127T122527</lastplayed>
-	</game>
-	<game>
 		<path>./Mega Man - Powered Up (USA).iso</path>
 		<name>Mega Man : Powered Up</name>
 		<desc>Dr. Light had an idea: He would build a bunch of good and handy robots to help him and others to make the world a better place. One of these robots is named "Mega" and is designed to help Light around the lab in various tasks. One day, evil Dr. Wily attacks the lab and turn all of the robots evil too. All except Mega. Dr. Light sends Mega to stop these robots and thus, Mega Man is born.
@@ -115,5 +102,18 @@ In addition to these two main game modes, there is a level editor that can be us
 		<players>1</players>
 		<playcount>1</playcount>
 		<lastplayed>20240129T092849</lastplayed>
+	</game>
+	<game>
+		<path>./Patapon (USA).iso</path>
+		<name>Patapon</name>
+		<desc>Set among a variety of colorful 2D backgrounds, Patapon unfolds through more than 30 missions with more than 20 different environments, where players are tasked with outfitting the Patapon army, collecting resources, and using strategy to grow the tribe into a devastating fighting force. Incorporating various button-timed drumbeats in real-time to control the Patapons, players will strategically traverse through each environment, battling enemies each step of the way. The game presents a variety of warrior types such as archers, infantry, cavalry, and more that players can unlock, along with a wide selection of more than 100 weapon and shield upgrades, allowing players to customize their forces throughout the funky adventure.</desc>
+		<rating>0.9</rating>
+		<releasedate>20080226T000000</releasedate>
+		<developer>SCE Japan Studio</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Music and Dance</genre>
+		<players>1</players>
+		<playcount>14</playcount>
+		<lastplayed>20240203T124117</lastplayed>
 	</game>
 </gameList>
