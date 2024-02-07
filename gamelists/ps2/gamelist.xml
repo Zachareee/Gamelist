@@ -64,4 +64,19 @@ The game has over twenty levels and includes as many real-time cut-scenes which 
 		<playcount>1</playcount>
 		<lastplayed>20240129T001119</lastplayed>
 	</game>
+	<game>
+		<path>./Ben 10 - Alien Force (USA) (EnFrDeEsIt).chd</path>
+		<name>Ben 10 : Alien Force</name>
+		<desc>Ben 10: Alien Force is a 3D action-adventure game based on the TV series of the same name. 
+
+The major part of the game sees the player taking control of Ben. He can transform in to a multitude of aliens that vary in size and abilities. But some parts are played with Gwen or Kevin. Gameplay includes defeating enemies, bosses, platforming and solving puzzles. The game can be played solo or in co-op.
+
+Regarding the plot, Ben, Gwen and Kevin are on their way to an amusement pier when the tracking system in the car picks up signals from alien artifacts located at the pier. But it appears the Forever Knights are also after the artifacts. While retrieving the artifact, they encounter the Tetramand Plumber named Gorvan who explains the Highbreed are after several artifacts on earth. Now it?s up to you to stop them.</desc>
+		<rating>0.6</rating>
+		<releasedate>20090213T000000</releasedate>
+		<developer>Monkey Bar Games</developer>
+		<publisher>D3 Publisher</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+	</game>
 </gameList>

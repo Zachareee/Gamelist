@@ -4,19 +4,6 @@
 </alternativeEmulator>
 <gameList>
 	<game>
-		<path>./Ratchet &amp; Clank Future - Tools of Destruction.ps3</path>
-		<name>Ratchet &amp; Clank : Tools of Destruction</name>
-		<desc>Get ready for a galactic adventure filled with explosive mayhem as the Ratchet &amp; Clank series makes its PS3 debut. Ratchet &amp; Clank Future: Tools of Destruction marks the beginning of a brand-new series of next-generation games for our gadget-building hero, Ratchet, and his brainy robotic sidekick, Clank.
-
-After saving countless planets from dreadful doom and earning intergalactic mega-celebrity status in the process, Ratchet and Clank have taken some well-deserved R&amp;R -- again. Yet, Ratchet remains restless. An orphan of the universe, he has never known anything of his past, his family, or his Lombax origins. And no one, not even Clank, can fill that void. Unfortunately for Ratchet, someone else is equally interested in Ratchet's origins: Emperor Percival Tachyon. In his thirst for revenge, the vile tyrant of an ancient race of foul insect-like monsters called Cragmites has festered an age-old grudge and is bent on wiping the last-known Lombax off the universe!</desc>
-		<rating>0.9</rating>
-		<releasedate>20071023T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Insomniac Games</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./LittleBigPlanet.ps3</path>
 		<name>Littlebigplanet</name>
 		<desc>LittleBigPlanet is a puzzle platformer where the player controls sackboys. It takes the characters on an adventure through levels with different themes and settings, trying to reach the end of each level alive. The platforming is based entirely on physics where the sackboys can push or pull items, or generally manipulate them with their movement or weight. In addition to running, jumping, pushing and pulling, it is also necessary to master grabbing dangling objects and swinging from them to get over some obstacles and traps.</desc>

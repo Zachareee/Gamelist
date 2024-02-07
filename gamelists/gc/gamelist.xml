@@ -2,4 +2,19 @@
 <alternativeEmulator>
 	<label>Dolphin (Standalone)</label>
 </alternativeEmulator>
-<gameList />
+<gameList>
+	<game>
+		<path>./Legend of Zelda, The - Collector's Edition (Europe) (En,Fr,De,Es,It).rvz</path>
+		<name>The Legend of Zelda - Collector's Edition</name>
+		<desc>The Legend of Zelda: Collector's Edition is a compilation of several installments from The Legend of Zelda series. It features both games released for the NES and Nintendo 64, with the former including revised texts fixing the original mistranslations, a demo of The Wind Waker, and various promotional videos.
+Full games: The Legend of Zelda / The Adventure of Link / Ocarina of Time / Majora's Mask Extras: 20-minute playable demo of The Wind Waker, including scenarios for a dungeon, stealth, and an island / The Legend of Zelda retrospective / The Wind Waker special movie</desc>
+		<rating>1</rating>
+		<releasedate>20031114T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20240207T100421</lastplayed>
+	</game>
+</gameList>

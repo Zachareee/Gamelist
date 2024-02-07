@@ -57,19 +57,6 @@ There is an entirely new dungeon dubbed "The Labyrinth of Time" which enforces a
 		<players>1</players>
 	</game>
 	<game>
-		<path>./LocoRoco (Europe) (PSP) (PSN).iso</path>
-		<name>LocoRoco</name>
-		<desc>LocoRoco is an innovative 2D platform/action game available exclusively for the PSP. Featuring unique controls utilizing the "L" and "R" shoulder buttons, players are tasked with controlling via "tilting or bumping" the landscape of the LocoRoco in order to help them navigate through the level and keep them out of harm's way. With more than 40 stages, players control and guide the LocoRoco through vibrant, thriving and lush worlds filled with slippery slopes, swing ropes , and more. Featuring six different types of LocoRoco that include their own voices and actions, players will be enchanted by captivating music that communicates the joyous world of these LocoRoco. In addition, LocoRoco features the rewarding LocoHouse, three mini-games , and wireless features. The peaceful world of the LocoRoco are under attack by the not-so-nice Moja Corps. These evil outer space creatures want nothing but to capture the blissful LocoRoco and take them from their land of blowing flowers, lively creatures and pastel scenery. As the planet where the LocoRoco inhabit, players must tilt, roll and bounce the LocoRoco to safety.</desc>
-		<rating>0.8</rating>
-		<releasedate>20060628T000000</releasedate>
-		<developer>SCE Japan Studio</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<playcount>7</playcount>
-		<lastplayed>20240125T104218</lastplayed>
-	</game>
-	<game>
 		<path>./LocoRoco - Midnight Carnival (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Ru) (PSP) (PSN).iso</path>
 		<name>Locoroco Midnight Carnival</name>
 		<desc>LocoRoco Midnight Carnival is based on a secret carnival-like base, created by the BuiBui, a red, mischievous version of the MuiMui. The title shows that the LocoRoco were quietly sleeping, while in the background, a BuiBui pulls on a nearby lever (cleverly designed to just look like a star), opening a trapdoor under the LocoRoco, sending them into a chute, taking them into a cannon, which shows the LocoRoco "Boing!" power. The cannon sends the LocoRoco into the BuiBui's secret base, the midnight carnival.</desc>
@@ -113,7 +100,20 @@ In addition to these two main game modes, there is a level editor that can be us
 		<publisher>Sony Computer Entertainment</publisher>
 		<genre>Music and Dance</genre>
 		<players>1</players>
-		<playcount>14</playcount>
-		<lastplayed>20240203T124117</lastplayed>
+		<playcount>15</playcount>
+		<lastplayed>20240205T105539</lastplayed>
+	</game>
+	<game>
+		<path>./LocoRoco (Europe) (PSP) (PSN).iso</path>
+		<name>LocoRoco</name>
+		<desc>LocoRoco is an innovative 2D platform/action game available exclusively for the PSP. Featuring unique controls utilizing the "L" and "R" shoulder buttons, players are tasked with controlling via "tilting or bumping" the landscape of the LocoRoco in order to help them navigate through the level and keep them out of harm's way. With more than 40 stages, players control and guide the LocoRoco through vibrant, thriving and lush worlds filled with slippery slopes, swing ropes , and more. Featuring six different types of LocoRoco that include their own voices and actions, players will be enchanted by captivating music that communicates the joyous world of these LocoRoco. In addition, LocoRoco features the rewarding LocoHouse, three mini-games , and wireless features. The peaceful world of the LocoRoco are under attack by the not-so-nice Moja Corps. These evil outer space creatures want nothing but to capture the blissful LocoRoco and take them from their land of blowing flowers, lively creatures and pastel scenery. As the planet where the LocoRoco inhabit, players must tilt, roll and bounce the LocoRoco to safety.</desc>
+		<rating>0.8</rating>
+		<releasedate>20060628T000000</releasedate>
+		<developer>SCE Japan Studio</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<playcount>8</playcount>
+		<lastplayed>20240207T011135</lastplayed>
 	</game>
 </gameList>
